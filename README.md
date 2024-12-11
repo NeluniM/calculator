@@ -1,57 +1,94 @@
 # Simple Calculator App  
 
-A simple and interactive calculator web application developed to practice and enhance skills in front-end development. This project demonstrates the use of *HTML, **CSS, and **JavaScript* to create a functional and visually appealing calculator.  
+An intuitive and user-friendly **web calculator application** designed to enhance front-end development skills. This project integrates **HTML**, **CSS**, and **JavaScript** to deliver a functional, visually appealing calculator interface.
+
+---
 
 ## Features  
 
-- *Basic Arithmetic Operations*: Perform addition, subtraction, multiplication, and division.  
-- *Clear and Delete Functionality*: Reset calculations or remove individual digits.  
-- *Interactive Buttons*: Hover and active effects for a polished user experience.  
-- *Responsive Design*: Works seamlessly on different screen sizes.  
+- **Basic Arithmetic Operations**:  
+  Perform addition, subtraction, multiplication, and division effortlessly.  
 
-## Technologies Used  
+- **Clear and Delete Functions**:  
+  - Reset all calculations with a clear button.  
+  - Remove individual digits for precise corrections.  
 
-- *HTML*: Provides the structure for the calculator interface.  
-- *CSS*: Adds styling and design elements for a modern look.  
-- *JavaScript*: Handles the logic for arithmetic operations and interactivity.  
+- **Interactive Design**:  
+  - Buttons respond to hover and active states, creating a polished user experience.  
+  - Smooth animations and transitions for a professional feel.  
 
-## How to Use  
+- **Responsive Layout**:  
+  Designed to adapt seamlessly to different screen sizes, ensuring usability on desktops, tablets, and smartphones.  
 
-1. Clone the repository to your local machine:  
-   bash  
+---
+
+## Technologies  
+
+- **HTML**: Defines the calculator's structure.  
+- **CSS**: Adds visual styling, including layout, colors, and animations.  
+- **JavaScript**: Implements the functional logic for calculations and interactions.  
+
+---
+
+## How to Run  
+
+1. **Clone the Repository**:  
+   ```bash  
    git clone https://github.com/NeluniMadeesha/Calculator.git  
-2. Open the project folder and locate the cal.html file.
-3. Double-click the file to open it in your web browser.
-4. Start performing calculations directly on the app!
-   
-## File Structure
+   ```  
 
-- cal.html: Main HTML file containing the calculator layout and logic.
-- styles.css: CSS file for styling the calculator's design.
+2. **Locate the HTML File**:  
+   Navigate to the project directory and find `cal.html`.  
 
-## Screenshots
+3. **Open in a Browser**:  
+   Double-click `cal.html` to launch the calculator in your preferred web browser.  
 
-### Calculator Interface
+4. **Start Calculating**:  
+   Use the app to perform basic calculations interactively.  
 
-![image](https://github.com/user-attachments/assets/7c2a6192-c69a-499e-8982-87bd2a5e332e)
+---
 
-## Contributing
+## Project Structure  
 
-Contributions are welcome to enhance this calculator! Here's how you can contribute:
+- **`cal.html`**: Main HTML file containing the layout and logic for the calculator.  
+- **`styles.css`**: CSS file that defines the appearance and styling of the application.  
 
-1. Fork the repository by clicking the "Fork" button on GitHub.
-2. Clone your fork to your local machine:
-   bash
-   git clone <fork-url>
-3. Create a new branch for your feature or fix:
-   bash
-    git checkout -b feature/feature-name
-4. Make your changes, then commit and push them to your fork:
-   bash
-   git push origin feature/feature-name  
+---
 
-5. Open a pull request on the original repository.
+## Screenshot  
 
-## License
+### Calculator Interface  
 
-This project is released under the MIT License. Feel free to use, modify, and distribute it as needed.
+![image](https://github.com/user-attachments/assets/7c2a6192-c69a-499e-8982-87bd2a5e332e)  
+
+---
+
+## Contributing  
+
+We welcome contributions to improve and expand the calculator's features!  
+
+### Steps to Contribute:  
+1. **Fork the Repository**: Click the "Fork" button on the GitHub project page.  
+2. **Clone the Fork**:  
+   ```bash  
+   git clone <your-fork-url>  
+   ```  
+3. **Create a Feature Branch**:  
+   ```bash  
+   git checkout -b feature/your-feature-name  
+   ```  
+4. **Implement Your Changes**: Make updates or add new features.  
+5. **Push Your Changes**:  
+   ```bash  
+   git push origin feature/your-feature-name  
+   ```  
+6. **Open a Pull Request**: Submit your changes to the original repository for review.  
+
+---
+
+## License  
+
+This project is distributed under the **MIT License**, allowing free use, modification, and redistribution.  
+
+--- 
+

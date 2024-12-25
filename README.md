@@ -103,5 +103,5 @@ We welcome contributions to improve and expand the calculator’s functionality!
 
 This project is licensed under the **MIT License**, allowing free use, modification, and distribution.  
 
----  
+---
 

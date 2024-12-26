@@ -1,107 +1,106 @@
-### Simple Calculator App 🧮
+# 🧮 **Simple Calculator App**  
 
-An interactive and **user-friendly web calculator application** crafted to enhance front-end development skills. This project elegantly blends **HTML**, **CSS**, and **JavaScript** to create a functional, visually appealing, and responsive calculator.  
-
----  
-
-## Features 🎯  
-
-- **Basic Arithmetic Operations** ➕➖✖️➗  
-  Perform addition, subtraction, multiplication, and division effortlessly.  
-
-- **Clear and Delete Functions** 🔄🧹  
-  - **Clear All**: Reset all calculations with a single button.  
-  - **Delete Digits**: Remove individual digits for precise corrections.  
-
-- **Interactive Design** 🎨✨  
-  - Responsive buttons with hover and active states for a polished experience.  
-  - Smooth animations and transitions for a professional touch.  
-
-- **Responsive Layout** 📱💻  
-  Works seamlessly across desktops, tablets, and smartphones for convenience on any device.  
-
-- **Lightweight and Fast** ⚡  
-  Simple and efficient code ensures quick loading and execution.  
+An interactive **web calculator application** designed for performing basic arithmetic operations with ease. This project combines **HTML**, **CSS**, and **JavaScript** to deliver a functional and visually appealing user experience, emphasizing simplicity and responsiveness.  
 
 ---  
 
-## Technologies Used 💻  
+## 🎯 **Key Features**  
 
-- **HTML** 🏗️: Defines the calculator's structure and layout.  
-- **CSS** 🎨: Provides styling, colors, animations, and a responsive layout.  
-- **JavaScript** ⚙️: Powers the calculator's logic and interactivity.  
+- **Basic Arithmetic Operations**:  
+  Effortlessly perform addition, subtraction, multiplication, and division.  
+
+- **Clear & Delete Options**:  
+  - **Clear All**: Reset the calculator for a fresh start.  
+  - **Delete Last Entry**: Remove the last digit or operation for precise adjustments.  
+
+- **Interactive & Modern Design**:  
+  - Intuitive button layout with responsive hover and click effects.  
+  - Smooth animations and transitions for a sleek experience.  
+
+- **Fully Responsive**:  
+  - Adapts seamlessly to devices of all sizes, from desktops to smartphones.  
+
+- **Lightweight & Efficient**:  
+  Minimalist design and optimized code ensure quick load times and smooth performance.  
 
 ---  
 
-## How to Run 🚀  
+## 💻 **Technologies Utilized**  
 
-1️⃣ **Clone the Repository**:  
+- **HTML**: Constructs the framework and layout of the calculator.  
+- **CSS**: Styles the calculator with colors, animations, and responsive design.  
+- **JavaScript**: Implements the calculator's logic and interactive behavior.  
+
+---  
+
+## 🚀 **How to Use the Calculator**  
+
+1. **Clone the Repository**:  
+   Use the following command to clone the project:  
    ```bash  
    git clone https://github.com/NeluniMadeesha/Calculator.git  
    ```  
 
-2️⃣ **Locate the HTML File**:  
-   Navigate to the project folder and find `cal.html`.  
+2. **Access the Files**:  
+   Navigate to the project folder and locate `cal.html`.  
 
-3️⃣ **Open in a Browser** 🌐:  
-   Double-click `cal.html` to launch the calculator in your preferred browser.  
+3. **Run the Application**:  
+   Open `cal.html` in your web browser.  
 
-4️⃣ **Start Calculating** 🧮✨:  
-   Use the app to perform calculations interactively and enjoy the experience!  
-
----  
-
-## Project Structure 📂  
-
-- **`cal.html`** 🏗️: Main HTML file containing the calculator’s structure.  
-- **`styles.css`** 🎨: CSS file for design, layout, and animations.  
-- **`script.js`** ⚙️: JavaScript file implementing calculation logic.  
+4. **Start Calculating**:  
+   Perform operations interactively using the calculator interface.  
 
 ---  
 
-## Screenshot 📸  
+## 📂 **Project Structure**  
 
-### Calculator Interface  
-
-🚧 *Add your project screenshots here to showcase the interface!* 🚧  
+```plaintext  
+Calculator/  
+├── cal.html       # Contains the HTML structure  
+├── styles.css     # Handles styling and layout  
+└── script.js      # Implements calculator logic  
+```  
 
 ---  
 
-## Contributing 🤝✨  
+## 📸 **Preview**  
 
-We welcome contributions to improve and expand the calculator’s functionality!  
+🚀 *Include screenshots of your calculator interface here to showcase its design!*  
 
-### Steps to Contribute:  
-1️⃣ **Fork the Repository**: Click the "Fork" button on the GitHub page.  
-2️⃣ **Clone Your Fork**:  
+---  
+
+## 🤝 **Contributions**  
+
+Contributions to this project are welcome! Whether it's fixing bugs or adding new features, here’s how you can contribute:  
+
+1. **Fork the Repository**: Click the "Fork" button on GitHub.  
+2. **Clone the Fork**:  
    ```bash  
    git clone <your-fork-url>  
    ```  
-3️⃣ **Create a Feature Branch**:  
+3. **Create a Branch**:  
    ```bash  
    git checkout -b feature/your-feature-name  
    ```  
-4️⃣ **Make Changes** 🛠️: Implement updates or add new features.  
-5️⃣ **Push Your Changes** 🚀:  
+4. **Make Changes**: Add your updates or new features.  
+5. **Push Changes**:  
    ```bash  
    git push origin feature/your-feature-name  
    ```  
-6️⃣ **Open a Pull Request** 📤: Submit your changes for review.  
+6. **Submit a Pull Request**: Propose your changes for review.  
 
 ---  
 
-## Future Enhancements ✨💡  
+## ✨ **Planned Enhancements**  
 
-- **Advanced Calculations** 🧠: Add support for square roots, exponents, and trigonometric functions.  
-- **History Log** 📜: Display past calculations for reference.  
-- **Themes** 🎨: Introduce light, dark, and custom color themes.  
-- **Keyboard Support** ⌨️: Allow users to input numbers and operations via keyboard.  
+- **Advanced Functions**: Introduce features like square roots, exponents, and trigonometric operations.  
+- **Calculation History**: Display a log of previous calculations.  
+- **Theme Options**: Allow users to switch between light, dark, and custom themes.  
+- **Keyboard Shortcuts**: Enable input using the keyboard for faster operations.  
 
 ---  
 
-## License 📜  
+## 📜 **License**  
 
-This project is licensed under the **MIT License**, allowing free use, modification, and distribution.  
-
----
+This project is licensed under the **MIT License**, providing freedom to use, modify, and distribute the code.  
 

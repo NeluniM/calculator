@@ -1,106 +1,110 @@
 # 🧮 **Simple Calculator App**  
 
-An interactive **web calculator application** designed for performing basic arithmetic operations with ease. This project combines **HTML**, **CSS**, and **JavaScript** to deliver a functional and visually appealing user experience, emphasizing simplicity and responsiveness.  
+A sleek and interactive **web-based calculator** for performing basic arithmetic operations. Built with **HTML**, **CSS**, and **JavaScript**, this app offers a responsive, user-friendly interface with modern design elements.  
 
 ---  
 
-## 🎯 **Key Features**  
+## **🎯 Features**  
 
-- **Basic Arithmetic Operations**:  
-  Effortlessly perform addition, subtraction, multiplication, and division.  
+### ➕ **Basic Arithmetic**  
+Perform core operations like **addition**, **subtraction**, **multiplication**, and **division** effortlessly.  
 
-- **Clear & Delete Options**:  
-  - **Clear All**: Reset the calculator for a fresh start.  
-  - **Delete Last Entry**: Remove the last digit or operation for precise adjustments.  
+### 🗑️ **Clear & Delete Options**  
+- **Clear All**: Reset the calculator for a fresh start.  
+- **Delete Last Entry**: Erase the last input for quick corrections.  
 
-- **Interactive & Modern Design**:  
-  - Intuitive button layout with responsive hover and click effects.  
-  - Smooth animations and transitions for a sleek experience.  
+### ✨ **Interactive & Modern Design**  
+- Intuitive button layout with **hover effects** and **click animations**.  
+- Smooth transitions enhance usability.  
 
-- **Fully Responsive**:  
-  - Adapts seamlessly to devices of all sizes, from desktops to smartphones.  
+### 📱 **Fully Responsive**  
+Optimized for all devices, from large screens 🖥️ to smartphones 📱.  
 
-- **Lightweight & Efficient**:  
-  Minimalist design and optimized code ensure quick load times and smooth performance.  
-
----  
-
-## 💻 **Technologies Utilized**  
-
-- **HTML**: Constructs the framework and layout of the calculator.  
-- **CSS**: Styles the calculator with colors, animations, and responsive design.  
-- **JavaScript**: Implements the calculator's logic and interactive behavior.  
+### ⚡ **Lightweight & Fast**  
+Designed for quick load times and seamless performance.  
 
 ---  
 
-## 🚀 **How to Use the Calculator**  
+## **💻 Technologies Used**  
 
-1. **Clone the Repository**:  
-   Use the following command to clone the project:  
+- **HTML**: Structures the calculator layout.  
+- **CSS**: Adds style, animations, and responsiveness.  
+- **JavaScript**: Powers the logic for interactive functionality.  
+
+---  
+
+## **🚀 How to Run the App**  
+
+### 📂 **Steps**  
+
+1. **Clone the Repository**  
+   Use the following command to get the project:  
    ```bash  
    git clone https://github.com/NeluniMadeesha/Calculator.git  
    ```  
 
-2. **Access the Files**:  
-   Navigate to the project folder and locate `cal.html`.  
+2. **Open the Files**  
+   Navigate to the folder and locate `cal.html`.  
 
-3. **Run the Application**:  
-   Open `cal.html` in your web browser.  
+3. **Run the App**  
+   Open `cal.html` in any web browser 🌐.  
 
-4. **Start Calculating**:  
-   Perform operations interactively using the calculator interface.  
+4. **Start Calculating**  
+   Use the calculator interface to perform operations!  
 
 ---  
 
-## 📂 **Project Structure**  
+## **📂 Project Structure**  
 
 ```plaintext  
 Calculator/  
-├── cal.html       # Contains the HTML structure  
-├── styles.css     # Handles styling and layout  
-└── script.js      # Implements calculator logic  
+├── cal.html       # HTML structure of the app  
+├── styles.css     # CSS for styling and responsiveness  
+└── script.js      # JavaScript logic for operations  
 ```  
 
 ---  
 
-## 📸 **Preview**  
+## **📸 Preview**  
 
-🚀 *Include screenshots of your calculator interface here to showcase its design!*  
+🎨 *Include visuals of the calculator’s interface here to highlight its design!*  
 
 ---  
 
-## 🤝 **Contributions**  
+## **🤝 How to Contribute**  
 
-Contributions to this project are welcome! Whether it's fixing bugs or adding new features, here’s how you can contribute:  
+Contributions are welcome! Follow these steps to get involved:  
 
-1. **Fork the Repository**: Click the "Fork" button on GitHub.  
-2. **Clone the Fork**:  
+1. **Fork the Repository**: Create your own copy on GitHub.  
+2. **Clone the Repository**:  
    ```bash  
    git clone <your-fork-url>  
    ```  
-3. **Create a Branch**:  
+3. **Create a New Branch**:  
    ```bash  
-   git checkout -b feature/your-feature-name  
+   git checkout -b feature/new-feature-name  
    ```  
-4. **Make Changes**: Add your updates or new features.  
+4. **Make Changes**: Add your improvements or features.  
 5. **Push Changes**:  
    ```bash  
-   git push origin feature/your-feature-name  
+   git push origin feature/new-feature-name  
    ```  
 6. **Submit a Pull Request**: Propose your changes for review.  
 
 ---  
 
-## ✨ **Planned Enhancements**  
+## **✨ Planned Enhancements**  
 
-- **Advanced Functions**: Introduce features like square roots, exponents, and trigonometric operations.  
-- **Calculation History**: Display a log of previous calculations.  
-- **Theme Options**: Allow users to switch between light, dark, and custom themes.  
-- **Keyboard Shortcuts**: Enable input using the keyboard for faster operations.  
+- 🧮 **Advanced Functions**: Include features like square roots, exponents, and trigonometric calculations.  
+- 🕒 **Calculation History**: Show a log of previous calculations.  
+- 🎨 **Theme Selector**: Add light, dark, and custom themes.  
+- ⌨️ **Keyboard Shortcuts**: Enable faster input through keyboard support.  
 
 ---  
 
-## 📜 **License**  
+## **📜 License**  
 
-This project is licensed under the **MIT License**, providing freedom to use, modify, and distribute the code.  
+This project is licensed under the **MIT License**, allowing free use, modification, and distribution.  
+
+---  
 

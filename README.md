@@ -1,109 +1,108 @@
-# 🧮 **Simple Calculator App**  
+# 🧮 **Simple Calculator App**
 
-An elegant and interactive **web-based calculator** for basic arithmetic operations. Crafted using **HTML**, **CSS**, and **JavaScript**, this app combines functionality with a modern, responsive design.  
-
----
-
-## **🎯 Features**  
-
-### ➕ **Perform Arithmetic Effortlessly**  
-- Basic operations: **addition**, **subtraction**, **multiplication**, and **division**.  
-
-### 🗑️ **Flexible Reset Options**  
-- **Clear All**: Start fresh with a single click.  
-- **Delete Last Entry**: Correct mistakes quickly by deleting the last input.  
-
-### ✨ **Sleek and Modern Design**  
-- Clean layout with interactive **hover effects** and **button animations**.  
-- Smooth transitions for a polished user experience.  
-
-### 📱 **Responsive Design**  
-- Works seamlessly across all devices, from desktops 🖥️ to smartphones 📱.  
-
-### ⚡ **Lightweight and Efficient**  
-- Minimal load times for a smooth and fast experience.  
+An elegant and interactive **web-based calculator** for basic arithmetic operations. Built using **HTML**, **CSS**, and **JavaScript**, this app merges functionality with a modern, responsive design.
 
 ---
 
-## **💻 Technologies Behind the App**  
+## **🎯 Features**
 
-- **HTML**: Builds the calculator’s structure.  
-- **CSS**: Styles the layout and adds responsiveness.  
-- **JavaScript**: Implements the logic for all operations and interactivity.  
+### ➕ **Effortless Arithmetic**
+- Supports core operations: **addition**, **subtraction**, **multiplication**, and **division**.
 
----
+### 🗑️ **Reset and Edit Options**
+- **Clear All**: Reset the calculator to its initial state with a single click.
+- **Delete Last Entry**: Quickly fix input errors by removing the last entry.
 
-## **🚀 How to Use the App**  
+### ✨ **Modern and Intuitive Design**
+- A clean layout with **hover effects** and **button animations**.
+- Smooth transitions for a professional user experience.
 
-### 📂 **Steps to Run**  
+### 📱 **Optimized for All Devices**
+- Responsive design ensures compatibility across desktops 🖥️, tablets, and smartphones 📱.
 
-1. **Clone the Repository**  
-   Retrieve the project using:  
-   ```bash  
-   git clone https://github.com/NeluniMadeesha/Calculator.git  
-   ```  
-
-2. **Locate the Files**  
-   Navigate to the folder and open `cal.html`.  
-
-3. **Run the App**  
-   Open `cal.html` in any web browser 🌐.  
-
-4. **Start Calculating**  
-   Use the interface for your arithmetic needs!  
+### ⚡ **Fast and Lightweight**
+- Minimal resource usage for a seamless and fast experience.
 
 ---
 
-## **📂 Project File Structure**  
+## **💻 Technologies Used**
 
-```plaintext  
-Calculator/  
-├── cal.html       # HTML: Structure of the calculator  
-├── styles.css     # CSS: Styling and responsiveness  
-└── script.js      # JavaScript: Calculator functionality  
-```  
+- **HTML**: Defines the calculator’s structure.
+- **CSS**: Adds styling and responsiveness.
+- **JavaScript**: Implements the functional logic and interactivity.
 
 ---
 
-## **📸 Interface Preview**  
+## **🚀 How to Use**
 
-🎨 *Showcase images of the calculator interface to highlight its clean and modern design!*  
+### 📂 **Steps to Run the App**
 
----
+1. **Clone the Repository**
+   Download the project using:
+   ```bash
+   git clone https://github.com/NeluniMadeesha/Calculator.git
+   ```
 
-## **🤝 Want to Contribute?**  
+2. **Access the Files**
+   Navigate to the folder and locate `cal.html`.
 
-We welcome contributions! Follow these steps:  
+3. **Launch the App**
+   Open `cal.html` in your preferred web browser 🌐.
 
-1. **Fork the Repository**: Create your personal copy on GitHub.  
-2. **Clone the Repository**:  
-   ```bash  
-   git clone <your-fork-url>  
-   ```  
-3. **Create a Branch**:  
-   ```bash  
-   git checkout -b feature/new-feature-name  
-   ```  
-4. **Make Your Changes**: Improve or add features.  
-5. **Push Your Changes**:  
-   ```bash  
-   git push origin feature/new-feature-name  
-   ```  
-6. **Submit a Pull Request**: Request a review for your changes.  
+4. **Start Using the Calculator**
+   Interact with the interface to perform your calculations.
 
 ---
 
-## **✨ Upcoming Features**  
+## **📂 Project File Organization**
 
-- 🧮 **Advanced Calculations**: Add functionalities like square roots, powers, and trigonometric functions.  
-- 🕒 **History Feature**: Maintain a log of past calculations.  
-- 🎨 **Theme Options**: Include light, dark, and customizable themes.  
-- ⌨️ **Keyboard Support**: Enable faster input using keyboard shortcuts.  
+```plaintext
+Calculator/
+├── cal.html       # HTML: Structure of the calculator
+├── styles.css     # CSS: Styling and responsiveness
+└── script.js      # JavaScript: Calculator functionality
+```
+
+---
+
+## **📸 Interface Overview**
+
+🎨 *Include screenshots showcasing the calculator’s clean and modern interface to give users a visual preview.*
 
 ---
 
-## **📜 Licensing**  
+## **🤝 How to Contribute**
 
-This project is distributed under the **MIT License**, allowing free usage, modification, and redistribution.  
+We encourage contributions! Follow these steps:
+
+1. **Fork the Repository**: Create a copy of the repository on your GitHub account.
+2. **Clone the Forked Repository**:
+   ```bash
+   git clone <your-fork-url>
+   ```
+3. **Create a New Branch**:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+4. **Make Improvements**: Add new features or fix existing issues.
+5. **Push the Changes**:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+6. **Submit a Pull Request**: Request to merge your changes into the main repository.
 
 ---
+
+## **✨ Planned Enhancements**
+
+- 🧮 **Advanced Calculations**: Add support for square roots, exponents, and trigonometric functions.
+- 🕒 **History Log**: Keep a record of past calculations for reference.
+- 🎨 **Customizable Themes**: Offer light, dark, and user-defined theme options.
+- ⌨️ **Keyboard Shortcuts**: Enable faster input via keyboard.
+
+---
+
+## **📜 License**
+
+This project is licensed under the **MIT License**, permitting free usage, modification, and distribution.
+

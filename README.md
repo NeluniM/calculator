@@ -1,108 +1,109 @@
 # 🧮 **Simple Calculator App**
 
-An elegant and interactive **web-based calculator** for basic arithmetic operations. Built using **HTML**, **CSS**, and **JavaScript**, this app merges functionality with a modern, responsive design.
+An interactive **web-based calculator** for basic arithmetic operations. Crafted with **HTML**, **CSS**, and **JavaScript**, this app combines functionality with a sleek, responsive design.  
 
 ---
 
 ## **🎯 Features**
 
-### ➕ **Effortless Arithmetic**
-- Supports core operations: **addition**, **subtraction**, **multiplication**, and **division**.
+### ➕ **Easy Arithmetic**  
+- Perform essential operations: **Addition (+)**, **Subtraction (−)**, **Multiplication (×)**, and **Division (÷)**.  
 
-### 🗑️ **Reset and Edit Options**
-- **Clear All**: Reset the calculator to its initial state with a single click.
-- **Delete Last Entry**: Quickly fix input errors by removing the last entry.
+### 🗑️ **Reset & Edit**  
+- **Clear All**: Quickly reset the calculator with one click.  
+- **Delete Entry**: Correct mistakes by removing the last input.  
 
-### ✨ **Modern and Intuitive Design**
-- A clean layout with **hover effects** and **button animations**.
-- Smooth transitions for a professional user experience.
+### ✨ **Modern Design**  
+- Clean interface with **hover effects** and **button animations** for a polished look.  
 
-### 📱 **Optimized for All Devices**
-- Responsive design ensures compatibility across desktops 🖥️, tablets, and smartphones 📱.
+### 📱 **Device-Friendly**  
+- Fully responsive and works perfectly on desktops 🖥️, tablets 📱, and smartphones 📞.  
 
-### ⚡ **Fast and Lightweight**
-- Minimal resource usage for a seamless and fast experience.
+### ⚡ **Lightweight & Fast**  
+- Minimal resources for a smooth, lag-free experience.  
 
 ---
 
 ## **💻 Technologies Used**
 
-- **HTML**: Defines the calculator’s structure.
-- **CSS**: Adds styling and responsiveness.
-- **JavaScript**: Implements the functional logic and interactivity.
+- **HTML** 🧱: Defines the structure of the calculator.  
+- **CSS** 🎨: Adds visual styling and responsiveness.  
+- **JavaScript** ⚙️: Powers the calculator’s functionality.  
 
 ---
 
 ## **🚀 How to Use**
 
-### 📂 **Steps to Run the App**
+### 📂 **Get Started in 4 Steps**  
 
-1. **Clone the Repository**
-   Download the project using:
+1. **Download the Project**  
+   Clone the repository with:  
    ```bash
    git clone https://github.com/NeluniMadeesha/Calculator.git
-   ```
+   ```  
 
-2. **Access the Files**
-   Navigate to the folder and locate `cal.html`.
+2. **Locate the Files**  
+   Navigate to the folder and find `cal.html`.  
 
-3. **Launch the App**
-   Open `cal.html` in your preferred web browser 🌐.
+3. **Run the Calculator**  
+   Open `cal.html` in your preferred browser 🌐.  
 
-4. **Start Using the Calculator**
-   Interact with the interface to perform your calculations.
+4. **Start Calculating**  
+   Use the interface to perform arithmetic operations effortlessly.  
 
 ---
 
-## **📂 Project File Organization**
+## **📂 Project Structure**
 
 ```plaintext
 Calculator/
-├── cal.html       # HTML: Structure of the calculator
-├── styles.css     # CSS: Styling and responsiveness
-└── script.js      # JavaScript: Calculator functionality
+├── cal.html       # HTML: Calculator structure
+├── styles.css     # CSS: Styling and layout
+└── script.js      # JavaScript: Functional logic
 ```
 
 ---
 
-## **📸 Interface Overview**
+## **📸 Interface Highlights**  
 
-🎨 *Include screenshots showcasing the calculator’s clean and modern interface to give users a visual preview.*
+🎨 *Showcase the calculator’s clean, responsive design with screenshots or visuals.*  
 
 ---
 
-## **🤝 How to Contribute**
+## **🤝 Contribution Guidelines**
 
-We encourage contributions! Follow these steps:
+We welcome contributions! Here’s how you can help:  
 
-1. **Fork the Repository**: Create a copy of the repository on your GitHub account.
-2. **Clone the Forked Repository**:
+1. **Fork the Repository**: Create your version of the repository.  
+2. **Clone Your Fork**:  
    ```bash
    git clone <your-fork-url>
-   ```
-3. **Create a New Branch**:
+   ```  
+
+3. **Create a Branch**:  
    ```bash
    git checkout -b feature/your-feature-name
-   ```
-4. **Make Improvements**: Add new features or fix existing issues.
-5. **Push the Changes**:
+   ```  
+
+4. **Make Changes**: Add new features or fix existing issues.  
+5. **Push Your Changes**:  
    ```bash
    git push origin feature/your-feature-name
-   ```
-6. **Submit a Pull Request**: Request to merge your changes into the main repository.
+   ```  
+
+6. **Submit a Pull Request**: Request to merge your changes into the main repository.  
 
 ---
 
-## **✨ Planned Enhancements**
+## **✨ Planned Features**
 
-- 🧮 **Advanced Calculations**: Add support for square roots, exponents, and trigonometric functions.
-- 🕒 **History Log**: Keep a record of past calculations for reference.
-- 🎨 **Customizable Themes**: Offer light, dark, and user-defined theme options.
-- ⌨️ **Keyboard Shortcuts**: Enable faster input via keyboard.
+- 🧮 **Advanced Operations**: Include square roots, exponents, and trigonometry.  
+- 🕒 **Calculation History**: Log previous calculations for easy reference.  
+- 🎨 **Custom Themes**: Offer light, dark, and personalized themes.  
+- ⌨️ **Keyboard Input**: Add keyboard shortcuts for faster use.  
 
 ---
 
-## **📜 License**
+## **📜 License**  
 
-This project is licensed under the **MIT License**, permitting free usage, modification, and distribution.
-
+Licensed under the **MIT License** 📝, granting you free use, modification, and distribution.  

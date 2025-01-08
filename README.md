@@ -1,4 +1,4 @@
-# 🧮 **Simple Calculator App**
+# 🧮✨ **Simple Calculator App**
 
 An interactive **web-based calculator** for basic arithmetic operations. Crafted with **HTML**, **CSS**, and **JavaScript**, this app combines functionality with a sleek, responsive design.  
 
@@ -6,20 +6,20 @@ An interactive **web-based calculator** for basic arithmetic operations. Crafted
 
 ## **🎯 Features**
 
-### ➕ **Easy Arithmetic**  
+### ➕🧾 **Easy Arithmetic**  
 - Perform essential operations: **Addition (+)**, **Subtraction (−)**, **Multiplication (×)**, and **Division (÷)**.  
 
-### 🗑️ **Reset & Edit**  
+### 🗑️✏️ **Reset & Edit**  
 - **Clear All**: Quickly reset the calculator with one click.  
 - **Delete Entry**: Correct mistakes by removing the last input.  
 
-### ✨ **Modern Design**  
+### ✨🎨 **Modern Design**  
 - Clean interface with **hover effects** and **button animations** for a polished look.  
 
-### 📱 **Device-Friendly**  
+### 📱🌐 **Device-Friendly**  
 - Fully responsive and works perfectly on desktops 🖥️, tablets 📱, and smartphones 📞.  
 
-### ⚡ **Lightweight & Fast**  
+### ⚡💨 **Lightweight & Fast**  
 - Minimal resources for a smooth, lag-free experience.  
 
 ---
@@ -36,19 +36,19 @@ An interactive **web-based calculator** for basic arithmetic operations. Crafted
 
 ### 📂 **Get Started in 4 Steps**  
 
-1. **Download the Project**  
+1. **📥 Download the Project**  
    Clone the repository with:  
    ```bash
    git clone https://github.com/NeluniMadeesha/Calculator.git
    ```  
 
-2. **Locate the Files**  
+2. **📁 Locate the Files**  
    Navigate to the folder and find `cal.html`.  
 
-3. **Run the Calculator**  
-   Open `cal.html` in your preferred browser 🌐.  
+3. **🌐 Run the Calculator**  
+   Open `cal.html` in your preferred browser.  
 
-4. **Start Calculating**  
+4. **🔢 Start Calculating**  
    Use the interface to perform arithmetic operations effortlessly.  
 
 ---
@@ -74,24 +74,24 @@ Calculator/
 
 We welcome contributions! Here’s how you can help:  
 
-1. **Fork the Repository**: Create your version of the repository.  
-2. **Clone Your Fork**:  
+1. **🔀 Fork the Repository**: Create your version of the repository.  
+2. **📥 Clone Your Fork**:  
    ```bash
    git clone <your-fork-url>
    ```  
 
-3. **Create a Branch**:  
+3. **🌱 Create a Branch**:  
    ```bash
    git checkout -b feature/your-feature-name
    ```  
 
-4. **Make Changes**: Add new features or fix existing issues.  
-5. **Push Your Changes**:  
+4. **🔧 Make Changes**: Add new features or fix existing issues.  
+5. **⬆️ Push Your Changes**:  
    ```bash
    git push origin feature/your-feature-name
    ```  
 
-6. **Submit a Pull Request**: Request to merge your changes into the main repository.  
+6. **📤 Submit a Pull Request**: Request to merge your changes into the main repository.  
 
 ---
 

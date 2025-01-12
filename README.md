@@ -1,4 +1,4 @@
-# 🧮✨ **Simple Calculator App**
+# 🧮 **Simple Calculator App**
 
 An interactive **web-based calculator** for basic arithmetic operations. Crafted with **HTML**, **CSS**, and **JavaScript**, this app combines functionality with a sleek, responsive design.  
 
